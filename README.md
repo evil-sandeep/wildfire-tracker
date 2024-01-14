@@ -26,4 +26,4 @@ Wildfire Tracker App is a React-based web application that provides real-time in
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/wildfire-tracker-app.git](https://github.com/evil-sandeep/wildfire-tracker)
+   git clone [https://github.com/evil-sandeep/wildfire-tracker.git]
