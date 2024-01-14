@@ -1,5 +1,6 @@
 # Wildfire Tracker App
 
+![Wildfire Tracker](./public/Screenshot%20(223).png)
 
 ## Overview
 
